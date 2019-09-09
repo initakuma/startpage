@@ -97,7 +97,7 @@ const CONFIGObj = {
       category: 'Reddit',
       name: 'r/animemes',
       key: 'a',
-      url: 'https://reddit.com/r/anime',
+      url: 'https://reddit.com/r/animemes',
       search: '/search?q={}',
       color: 'linear-gradient(135deg, #FF8456, #FF4500)',
       icon: 'reddit',
